@@ -1,5 +1,5 @@
 const pressed = [];
-const secretCode = 'web_vero';
+const secretCode = 'webvero';
 
 window.addEventListener('keyup', (e) => {
   console.log(e.key);
